@@ -15,3 +15,5 @@ It is also possible that tests start failing due to int02.openmrs.org being rede
 1. Clone the repo
 2. Go to the ui-tests directory using command line
 3. Run `mvn clean install -Prun-all-tests`
+
+TOMEK SIĘ OBIJA
